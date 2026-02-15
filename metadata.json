@@ -1,0 +1,5 @@
+{
+  "name": "Razor Shield Architect",
+  "description": "Un panel de alta fidelidad para auditar y refactorizar componentes de código Razor (.cshtml) según el Protocolo Mirror & Shield v3.6.",
+  "requestFramePermissions": []
+}
